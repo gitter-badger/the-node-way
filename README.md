@@ -1,6 +1,8 @@
 ![icon](logo.png) the-node-way
 ==============================================
 
+[![Join the chat at https://gitter.im/sontt9/the-node-way](https://badges.gitter.im/sontt9/the-node-way.svg)](https://gitter.im/sontt9/the-node-way?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Design patterns and best practices for building scaleable, maintainable and beautiful Node.js applications.
 
 ### Introduction
